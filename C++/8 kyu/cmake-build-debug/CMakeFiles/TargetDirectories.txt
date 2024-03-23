@@ -1,3 +1,0 @@
-D:/MY_PROJECTS/C++S/CodeWars/8 kyu/cmake-build-debug/CMakeFiles/8_kyu.dir
-D:/MY_PROJECTS/C++S/CodeWars/8 kyu/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/MY_PROJECTS/C++S/CodeWars/8 kyu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
