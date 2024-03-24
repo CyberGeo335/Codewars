@@ -1,4 +1,0 @@
-"D:\MORE_AND_IDE\CLion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/MORE_AND_IDE/CLion/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S "D:\MY_PROJECTS\C++S\CodeWars\7 kyu" -B "D:\MY_PROJECTS\C++S\CodeWars\7 kyu\cmake-build-debug"
--- Configuring done
--- Generating done
--- Build files have been written to: D:/MY_PROJECTS/C++S/CodeWars/7 kyu/cmake-build-debug
